@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from flasgger import Swagger
 from flask import Flask
 from flask.blueprints import Blueprint
